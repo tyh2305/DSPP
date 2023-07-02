@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(11,32): warning C4081: expected 'newline'; found '.'
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(21,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(38,21): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(48,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Practical1Server.vcxproj -> C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\x64\Debug\Practical1Server.exe

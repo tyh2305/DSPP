@@ -1,0 +1,10 @@
+﻿  server.cpp
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(21,20): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(38,21): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\Practical1\server.cpp(48,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 88 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Practical1Server.vcxproj -> C:\Users\TYH\Documents\Y3S1\DSPS\Practical\Practical1\x64\Release\Practical1Server.exe
